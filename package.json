@@ -1,10 +1,9 @@
 {
   "name": "h6",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && python3 -m venv virenv && source virenv/bin/activate",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
